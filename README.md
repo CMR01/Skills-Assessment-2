@@ -1,6 +1,6 @@
 # Skills-Assessment-2
 
-This repository contains all the data files and code required to analyse researchers linked to B2M, where they're based and some of the most active and respected journals related to this protein.
+This repository contains all the data files and code required to analyse researchers linked to B2M, where they're based and some of the most active and respected journals related to this protein. The network graphs will add a .html file to your working directory. Executing this file will open an interactive network graph in your default browser.
 
 Required packages:
 pandas
@@ -13,3 +13,5 @@ scipy
 networkx
 pyvis.network
 itertools
+
+
