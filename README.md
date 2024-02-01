@@ -14,5 +14,8 @@ networkx
 pyvis.network
 itertools
 Ipython.display
-
+WordCloud
+Seaborn
+sklearn.feature_extraction.text
+nltk
 
