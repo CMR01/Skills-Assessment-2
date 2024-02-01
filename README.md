@@ -18,4 +18,5 @@ WordCloud
 Seaborn
 sklearn.feature_extraction.text
 nltk
+nbformat
 
