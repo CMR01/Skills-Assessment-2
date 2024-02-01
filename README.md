@@ -13,5 +13,6 @@ scipy
 networkx
 pyvis.network
 itertools
+Ipython.display
 
 
